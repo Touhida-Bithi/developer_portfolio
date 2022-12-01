@@ -1,3 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 36px;
+}
 p{
-    color: brown;
+    text-align: justify;
+}
+.name_color{
+    color: #fb8500;
+}
+section{
+    display: flex;
+}
+.section1_div_partition{
+    width: 50%;
+    padding: 50px;
+}
+.section1_div_partition img {
+width: 65%;
+padding-left: 50px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: #fb8500;
+    border-radius: 8px;
+    color: #f0f0f0;
 }
